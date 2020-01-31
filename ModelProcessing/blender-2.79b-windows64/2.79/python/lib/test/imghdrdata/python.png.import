@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/python.png-c13ab318b8fa99bf31662c16dfb7f382.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Converter/Blender/blender-2.79b-windows64/2.79/python/lib/test/imghdrdata/python.png"
+dest_files=[ "res://.import/python.png-c13ab318b8fa99bf31662c16dfb7f382.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

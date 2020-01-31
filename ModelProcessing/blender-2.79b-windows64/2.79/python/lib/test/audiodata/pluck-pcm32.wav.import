@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pluck-pcm32.wav-83d1d5c8307c15b78ed5f8861f1f22ab.sample"
+
+[deps]
+
+source_file="res://Converter/Blender/blender-2.79b-windows64/2.79/python/lib/test/audiodata/pluck-pcm32.wav"
+dest_files=[ "res://.import/pluck-pcm32.wav-83d1d5c8307c15b78ed5f8861f1f22ab.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
