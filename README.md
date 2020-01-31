@@ -2,7 +2,7 @@
 This is a simple python script that utilizes a modified version of Gaulker's Alamo Tools for Blender to convert an entire directory of .ALO files into .BLEND files. Includes functionality to import sub-models and animations based on matching filenames.
 
 # Using the Converter
-To use, launch the batch_import.py script from the command line with arguments for both a model directory and an animation directory. All animations must be in V2 format (See [modtools.petrolution.net] for info and a conversion program). Any files that are not in their proper directory will be ignored. Made with Python 3.8
+To use, launch the batch_import.py script from the command line with arguments for both a model directory and an animation directory. All animations must be in V2 format (See [modtools.petrolution.net](modtools.petrolution.net) for info and a conversion program). Any files that are not in their proper directory will be ignored. Made with Python 3.8
 
 Example script:
 python batch_import.py "C:\path\to\eaw\models" "C:\path\to\eaw\models\converted_animations"
